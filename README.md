@@ -56,12 +56,6 @@ The objective of this project is to practice a practical finance data workflow:
 - [stock_revenue_dashboard_analysis.ipynb](stock_revenue_dashboard_analysis.ipynb): Original educational IBM-style notebook focused on extracting and visualizing stock and revenue data.
 - [financial_dashboard_analysis.ipynb](financial_dashboard_analysis.ipynb): Upgraded finance dashboard analysis with return metrics, risk metrics, drawdowns, revenue comparison, KPI summary, and interactive Plotly visualizations.
 
-## Dashboard Preview
-
-GitHub may not render Plotly charts inside notebooks, so the interactive dashboard is saved as `financial_dashboard.html`.
-
-[Open interactive dashboard](financial_dashboard.html)
-
 ## Extended Analysis
 
 The upgraded notebook adds a more finance-oriented layer to the original project:
