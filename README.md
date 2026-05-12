@@ -6,6 +6,14 @@ A Python-based financial dashboard comparing Tesla and GameStop using stock pric
 
 This repository began as an IBM/course-style educational project for extracting and visualizing stock and revenue data. It now includes an upgraded finance dashboard notebook that expands the analysis while keeping the project honest, readable, and focused.
 
+## Live Dashboard
+
+The interactive Plotly dashboard is available through GitHub Pages:
+
+[Open the live financial dashboard](https://aaron-cody.github.io/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/financial_dashboard.html)
+
+Note: GitHub may not preview the large HTML file directly inside the repository, so GitHub Pages is used to view the interactive dashboard.
+
 ## Objective
 
 The objective of this project is to practice a practical finance data workflow:
