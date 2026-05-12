@@ -53,12 +53,12 @@ The objective of this project is to practice a practical finance data workflow:
 
 ## Main Outputs
 
-- [stock_revenue_dashboard_analysis.ipynb](stock_revenue_dashboard_analysis.ipynb): Original educational IBM-style notebook focused on extracting and visualizing stock and revenue data.
 - [financial_dashboard_analysis.ipynb](financial_dashboard_analysis.ipynb): Upgraded finance dashboard analysis with return metrics, risk metrics, drawdowns, revenue comparison, KPI summary, and interactive Plotly visualizations.
+- `financial_dashboard.html`: HTML export of the main interactive Plotly dashboard, published through GitHub Pages.
 
 ## Extended Analysis
 
-The upgraded notebook adds a more finance-oriented layer to the original project:
+The dashboard notebook adds a finance-oriented layer to the original project:
 
 - Tesla vs GameStop normalized price chart.
 - Tesla vs GameStop cumulative return chart.
@@ -71,17 +71,16 @@ The upgraded notebook adds a more finance-oriented layer to the original project
 ## How to Run the Project
 
 1. Clone this repository.
-2. Open either notebook in Jupyter Notebook, JupyterLab, VS Code, or another notebook environment.
+2. Open the notebook in Jupyter Notebook, JupyterLab, VS Code, or another notebook environment.
 3. Install the required Python libraries if they are not already available:
 
    ```bash
    pip install pandas numpy yfinance requests beautifulsoup4 plotly nbformat
    ```
 
-4. Run one of the notebooks:
+4. Run the notebook:
 
    ```text
-   stock_revenue_dashboard_analysis.ipynb
    financial_dashboard_analysis.ipynb
    ```
 
